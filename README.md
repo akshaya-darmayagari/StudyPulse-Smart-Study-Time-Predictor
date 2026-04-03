@@ -163,17 +163,4 @@ seaborn>=0.12.0
 
 ---
 
-## 🏆 Evaluation Alignment
 
-| Criterion | Implementation |
-|-----------|---------------|
-| Relevance | Directly targets focus, burnout, exam scheduling |
-| Practical usefulness | Actionable daily schedule + method recommendations |
-| Innovation | Chronotype modeling, circadian productivity curve, gamification |
-| Model logic | 3 ML models with feature engineering & cross-validation |
-| Technical quality | Modular code, cached models, clean pipeline |
-| UX & clarity | Dark theme dashboard, tabbed layout, metric cards |
-
----
-
-*Built for the Tekworks StudyPulse Hackathon — April 2026*
